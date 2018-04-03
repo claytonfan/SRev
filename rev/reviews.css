@@ -1,0 +1,60 @@
+BODY {
+	BACKGROUND: #FFFFCC; 
+	MARGIN-top: 16px; 
+	MARGIN-left: 16px; 
+	COLOR: #000000; 
+	FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; 
+}
+.button {
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 80%; 
+	PADDING-BOTTOM: 2px; 
+	MARGIN: 0px 3px; 
+	COLOR: #FFCCFF; 
+	PADDING-TOP: 2px; 
+	FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; 
+	TEXT-ALIGN: center
+}
+a:link {
+	color: #0000FF; 
+	text-decoration: none
+}
+a:visited {
+	color: #FF0000; 
+	text-decoration: none
+}
+a:hover {
+	color: #0000FF; 
+	text-decoration: none
+}
+.list
+{
+   border-top:    #000000 1px solid;
+   border-bottom: #000000 1px solid;
+   FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; 
+   FONT-SIZE: 10pt; 
+   TEXT-ALIGN: center
+}
+.profile
+{
+   border-top:    #000000 1px solid;
+   border-bottom: #000000 1px solid;
+   FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; 
+   FONT-SIZE: 10pt; 
+   TEXT-ALIGN: left
+}
+
+.header {
+	color: #B799F2;
+	font-weight: bold;
+}
+.container {
+	PADDING-RIGHT: 50px; 
+	PADDING-LEFT: 50px; 
+	PADDING-BOTTOM: 25px; 
+	WIDTH: 350px; 
+	PADDING-TOP: 15px
+}
+.cap {
+	FONT-SIZE: 8pt; 
+}
